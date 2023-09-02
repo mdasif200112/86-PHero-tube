@@ -31,7 +31,7 @@ videoContainer2.innerHTML = '';
       const div = document.createElement('div');
       div.innerHTML=`
       <div class="flex flex-col justify-center items-center gap-8">
-      <img src="icon.png" alt="" srcset="" class="w-[140px] h-[140px]">
+      <img src="Icon.png" alt="" srcset="" class="w-[140px] h-[140px]">
       <h2 class="text-center text-[#171717] text-3xl font-bold">Oops!! Sorry, There is no <br> content here</h2>
       </div>
       
